@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "pigpio.h": "c",
+        "robotinit.h": "c",
+        "motorfunctions.h": "c",
+        "gattlib.h": "c"
+    }
+}
